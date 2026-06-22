@@ -1,0 +1,30 @@
+[
+    {
+        "online": "40",
+        "maxonline": "1000",
+        "color": "6A0DAD",
+        "x2": "true",
+        "key": "1424",
+        "name": "SERVER 01",
+        "firstname": "SERVER 01",
+        "secondname": "",
+        "url": "samara.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "1173"
+
+    },
+    {
+        "online": "40",
+        "maxonline": "1000",
+        "color": "4169E1",
+        "x2": "true",
+        "key": "1424",
+        "name": "SERVER 02",
+        "firstname": "SERVER 02",
+        "secondname": "",
+        "url": "blue.blackrussia.online",
+        "ip": "188.127.241.74",
+        "port": "1045"
+
+    }
+]
